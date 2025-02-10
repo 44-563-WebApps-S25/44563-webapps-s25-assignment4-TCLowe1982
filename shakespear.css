@@ -1,0 +1,6 @@
+p {size: 12px;}
+
+#speech {size: 14px; font-family: 'Courier New', Courier, monospace; color:blueviolet;}
+#stageName {size: 16px; font-family: 'Courier New', Courier, monospace; color: #000;}
+#direction:hover {size: 14px; font-family: 'Courier New', Courier, monospace; color: #000; background-color: lightblue;
+}
