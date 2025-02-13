@@ -8,9 +8,10 @@
 p {size: 12px;}
 
 h1 {color: orangered;}
+h5 {text-shadow: 1px 2px 2px blueviolet;}
 
 #speech {size: 14px; font-family: 'Courier New', Courier, monospace; color:blueviolet;}
-#stageName {size: 16px; font-family: 'Courier New', Courier, monospace; color: #000;}
+#stageName {size: 16px; font-family: 'Courier New', Courier, monospace; color: #000; }
 #direction:hover {size: 14px; font-family: 'Courier New', Courier, monospace; color: #000; background-color: lightblue;
 }
 #king {color:blueviolet;}
@@ -18,5 +19,6 @@ h1 {color: orangered;}
 #secondLord {color: darkblue;}
 #both {color: blue;}
 #parolles {color: darkgreen;}
+#bertram {color:crimson;}
 
 table, th, td {border:solid 2px black; text-align: left; padding: 5px;}
