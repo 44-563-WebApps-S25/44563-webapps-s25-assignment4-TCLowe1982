@@ -4,3 +4,8 @@ p {size: 12px;}
 #stageName {size: 16px; font-family: 'Courier New', Courier, monospace; color: #000;}
 #direction:hover {size: 14px; font-family: 'Courier New', Courier, monospace; color: #000; background-color: lightblue;
 }
+.king {color:blueviolet;}
+.firstLord {color: cadetblue;}
+.secondLord {color: darkblue;}
+.both {color: blue;}
+.parolles {color: darkgreen;}
